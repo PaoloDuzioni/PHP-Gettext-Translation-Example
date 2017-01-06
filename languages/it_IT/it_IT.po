@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LangDemo\n"
+"POT-Creation-Date: 2017-01-05 16:59+0100\n"
+"PO-Revision-Date: 2017-01-05 16:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: about.php:18
+msgid "About Me"
+msgstr "Approposito di me"
+
+#: about.php:19
+msgid "Web Developer - JavaScript Addicted"
+msgstr "Sviluppatore Web - JavaScript Addicted"
+
+#: about.php:21 index.php:21
+msgid "Select language"
+msgstr "Seleziona lingua"
+
+#: about.php:28 index.php:27
+msgid "English"
+msgstr "Inglese"
+
+#: about.php:37 index.php:36
+msgid "Italian"
+msgstr "Italiano"
+
+#: index.php:18
+msgid "Hello Internationaization"
+msgstr "Ciao Internazionalizzazione"
+
+#: index.php:19
+msgid "This is translation with no plugin, just PHP"
+msgstr "Questa è traduzione eseguita senza plugin, solo PHP."
+
+#: index.php:46
+msgid ""
+"EN Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, "
+"accusamus inventore explicabo veniam quis ipsum rerum illo corrupti ad "
+"debitis impedit eveniet nesciunt voluptates aspernatur a! Nostrum maxime "
+"possimus facere!"
+msgstr ""
+"IT  Vitae, accusamus inventore explicabo veniam quis ipsum rerum illo "
+"corrupti ad debitis impedit eveniet nesciunt voluptates aspernatur a! "
+"Nostrum maxime possimus facere!"
+
+#~ msgid "Translate your page"
+#~ msgstr "Traduci questa pagina"
